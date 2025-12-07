@@ -1,18 +1,18 @@
-/* Basis kleuren voor mijn website */
+ Mijn kleuren die ik heb gekozen
 :root {
-  --logo-color: #123845;   /* Donkerblauwgroen */
+  --logo-color: #123845;   /* Donkerblauwgroen 
   --title-color: #5DF6A0;  /* Groen */
-  --accent-color: #E2E2E2; /* Licht grijs */
+  --accent-color: #6e9e07; /* Licht grijs */
 }
 
-/* Algemene opmaak */
+/*  de opmaam */
 body {
   background-color: #ffffff;
   color: #123845;
   font-family: Arial, Helvetica, sans-serif;
 }
 
-/* Header */
+/* voor de logo */
 header {
   background-color: var(--logo-color);
 }
